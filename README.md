@@ -1,86 +1,59 @@
-👋 Hi, I’m Harshith B R
-🎯 Java Full-Stack Developer with hands-on experience in building scalable web applications using Spring Boot, React.js, SQL, and modern DevOps practices.
-I enjoy designing clean backend architectures, building responsive UIs, and automating deployments with CI/CD pipelines.
+<h1 align="center">Hi 👋, I'm Harshith B R</h1>
 
-🌟 About Me
-🎓 Computer Science Engineer (CGPA: 9.3)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;CI%2FCD+%7C+Docker+%7C+Kubernetes;Clean+Code+%7C+Scalable+Systems" />
+</p>
 
-💻 Strong foundation in Java, REST APIs, OOP, and Database Design
+<hr/>
 
-⚙️ Practical exposure to CI/CD, Docker, Kubernetes, Jenkins
+<h2 align="center">🌟 About Me</h2>
 
-🚀 Passionate about building efficient, secure, and production-ready applications
+<p align="center">
+🎓 Computer Science Engineer (CGPA: <b>9.3</b>) <br/>
+💻 Java Full-Stack Developer (Spring Boot + React) <br/>
+⚙️ Hands-on with CI/CD, Docker, Kubernetes, Jenkins <br/>
+🚀 Passionate about building secure, scalable applications <br/>
+📍 Bengaluru, India
+</p>
+<hr/>
 
-📍 Based in Bengaluru, India
+<h2 align="center">🛠️ Skills & Tools</h2>
 
-🛠️ Skills & Technologies
-Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,mongodb,docker,kubernetes,jenkins,git,github,linux" />
+</p>
+<hr/>
 
-Java, JavaScript, SQL, C, C++
+<h2 align="center">📊 GitHub Statistics</h2>
 
-Backend
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshi6410&show_icons=true&theme=tokyonight" />
+</p>
 
-Spring Boot, REST APIs, Hibernate/JPA
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshi6410&theme=tokyonight" />
+</p>
+<hr/>
 
-Frontend
+<h2 align="center">🚀 Featured Projects</h2>
 
-React.js, HTML5, CSS3
+<ul>
+  <li><b>Library Management System</b> – Java, SQL, OOP-based backend</li>
+  <li><b>CI/CD Pipeline Automation</b> – Jenkins, Docker, Kubernetes</li>
+  <li><b>Autonomous Intruder Detection</b> – IoT + OpenCV</li>
+</ul>
+<hr/>
 
-Databases
+<h2 align="center">📫 Connect With Me</h2>
 
-MySQL, PostgreSQL, MongoDB
-
-DevOps & Tools
-
-Git & GitHub
-
-Jenkins (CI/CD)
-
-Docker, Kubernetes
-
-Linux, Postman
-
-IntelliJ IDEA, VS Code
-
-💼 Experience
-AI-DevOps Engineer Intern
-WIINER Internship Program (VTU | IBM | Rooman | IIT Guwahati)
-📅 Nov 2024 – Feb 2025 | Bengaluru
-
-Built and managed CI/CD pipelines using Jenkins
-
-Containerized applications with Docker
-
-Deployed and scaled services using Kubernetes
-
-Automated build and deployment workflows
-
-Gained real-world exposure to DevOps culture and cloud environments
-
-🚀 Featured Projects
-🔹 Autonomous Intruder Detection & Tracking System
-Real-time surveillance using ESP32, PIR sensors, camera module
-
-Face detection with OpenCV (Haar Cascade)
-
-Live streaming, Wi-Fi alerts, automated image capture
-
-End-to-end IoT-based autonomous security system
-
-🔹 Library Management System
-Backend system using Java + SQL
-
-Applied full OOP principles
-
-CRUD operations, fine calculation, inventory tracking
-
-Well-designed relational database schema
-
-🔹 CI/CD Pipeline Automation
-Automated build–test–deploy pipelines using Jenkins
-
-Dockerized applications
-
-Kubernetes-based deployments
-
-Reduced manual deployment effort and errors
+<p align="center">
+  <a href="mailto:harshithbr48@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/harshith-b-r-949a47255">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/harshi6410">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github"/>
+  </a>
+</p>
